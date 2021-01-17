@@ -1,0 +1,4 @@
+<?php
+echo"Mi Nombre es WAshington Quimi\n";
+echo"Carrera de Ingenieria en Software\n";
+?>
